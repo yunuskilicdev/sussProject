@@ -180,7 +180,7 @@ You can run your application.
 
 go-sqlite3 for sqlite
 
-gorm for orm. With orm our codebase becomes understandable and clear. 
+gorm for orm. With orm our codebase becomes understandable and clear. Also working with ORM is best practices because of many reasons.
 
 **Assumed Cases**
 
